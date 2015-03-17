@@ -21,7 +21,7 @@ import com.google.android.gms.maps.GoogleMap;
 import com.google.android.gms.maps.MapFragment;
 import com.google.android.gms.maps.model.LatLng;
 import com.google.android.gms.maps.model.MarkerOptions;
-
+//testing git from android
 
 public class MainActivity extends ActionBarActivity implements GooglePlayServicesClient.ConnectionCallbacks, GoogleApiClient.OnConnectionFailedListener {
     private final LatLng HKUST_LOCATION= new LatLng(22.336355, 114.265454);
